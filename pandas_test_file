@@ -1,0 +1,10 @@
+########
+python pandas
+########
+
+#横方向#→#header
+df:Index = pandas.DataFrame.colmuns
+data._info_axis
+#縦方向#↓#index
+df:Index = pandas.DataFrame.index
+data._stat_axis
